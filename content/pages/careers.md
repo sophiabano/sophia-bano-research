@@ -2,7 +2,7 @@
 title: Careers
 slug: careers
 sections:
-  - subtitle: Section subtitle
+  - subtitle: ''
     text: ''
     actions:
       - label: See open positions
