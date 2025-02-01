@@ -100,7 +100,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    subtitle: Principal Investigator
+    subtitle: ''
   - title:
       text: ''
       color: text-dark
