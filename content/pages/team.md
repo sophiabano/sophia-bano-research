@@ -26,7 +26,16 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions: []
+        actions:
+          - type: Link
+            label: Join Us
+            altText: ''
+            url: 'https://profiles.ucl.ac.uk/66754-sophia-bano'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
