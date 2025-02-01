@@ -236,7 +236,8 @@ sections:
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: >-
+            /images/240603_J-TYE_UCL_242_Kirstein-lecture-2024_Hugh-Herr_6649.jpg
           altText: Background alt text
           styles:
             self:
