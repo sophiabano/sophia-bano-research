@@ -46,7 +46,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Meet the team
+      text: ''
       color: text-dark
       styles:
         self:
