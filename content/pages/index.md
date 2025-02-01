@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Research Lab
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We are a sub-group within the Surgical Robot Vision (SRV) group at **The
+      UCL Hawkes Institute**, focusing on cutting-edge research in **surgical
+      AI**, c**omputer vision**, and **medical robotics**. Led by **Dr. Sophia
+      Bano**, our team advances healthcare technology through **innovative
+      real-world clinical applications** and **interdisciplinary
+      collaborations.**
     actions:
       - label: Get started
         altText: ''
