@@ -67,7 +67,7 @@ sections:
         title: '2022'
         tagline: ''
         subtitle: ''
-        text: "### 1. Das, Adrito, et al. \"Reducing prediction volatility in the surgical workflow recognition of endoscopic pituitary surgery.\"\_*International journal of computer assisted radiology and surgery*\_17.8 (2022): 1445-1452.\n\n"
+        text: "1.  Das, Adrito, et al. \"Reducing prediction volatility in the surgical workflow recognition of endoscopic pituitary surgery.\"\_*International journal of computer assisted radiology and surgery*\_17.8 (2022): 1445-1452.\n\n"
         actions: []
         colors: bg-light-fg-dark
         styles:
