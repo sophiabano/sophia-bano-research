@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: '2025'
         tagline: '2025'
         subtitle: This is the item subtitle
         text: |
