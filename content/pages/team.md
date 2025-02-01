@@ -134,7 +134,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: ''
+      text: PhD Students
       color: text-dark
       styles:
         self:
