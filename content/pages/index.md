@@ -331,7 +331,7 @@ sections:
           8-9 East Bay Lane, Queen Elizabeth Olympic Park, London, E15 2GW
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/hereeast.png
           altText: Placeholder image
           styles:
             self:
