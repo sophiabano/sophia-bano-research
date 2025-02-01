@@ -113,6 +113,8 @@ sections:
       - content/data/person1.json
       - content/data/person1.json
       - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
     variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
