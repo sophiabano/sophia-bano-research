@@ -2,14 +2,7 @@
 title: Careers
 slug: careers
 sections:
-  - title:
-      text: A team that works closely together
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Section subtitle
+  - subtitle: Section subtitle
     text: ''
     actions:
       - label: See open positions
