@@ -261,7 +261,7 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: Open positions
+      text: Upcoming Opportunities
       color: text-dark
       styles:
         self:
