@@ -304,7 +304,7 @@ sections:
         tagline: ''
         subtitle: UCL East
         text: |
-          Follow the tutorial to build your first awesome Netlify site.
+          One Pool Street, 1 Pool Street, London, E20 2AF
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
