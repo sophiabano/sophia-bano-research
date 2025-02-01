@@ -19,7 +19,7 @@ sections:
         text: |
           Follow the tutorial to build your first Netlify Create site.
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -41,7 +41,7 @@ sections:
           \[[Media](https://www.synapse.org/Synapse:syn51232283/wiki/621581)]
 
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -62,7 +62,7 @@ sections:
           \[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_45)] 
 
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -98,7 +98,7 @@ sections:
           \[Media]
 
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -110,7 +110,7 @@ sections:
             flexDirection: row
     actions: []
     variant: small-list
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
