@@ -8,16 +8,14 @@ sections:
         title: Dr. Sophia Bano
         tagline: Feature 2
         subtitle: "Assistant Professor\_in Robotics and Artificial Intelligence in the Department of Computer Science"
-        text: >
+        text: >+
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id
           consequat nisi. Nulla lacinia turpis ut molestie pulvinar.
           Pellentesque rutrum felis vel rutrum condimentum. Curabitur
           sollicitudin, ex id pellentesque dictum, purus felis molestie erat, eu
           interdum nunc orci at nisl. In luctus facilisis nisi, quis dapibus
-          enim pulvinar. 
+          enim pulvinar.
 
-
-          [UCL Profile ](https://profiles.ucl.ac.uk/66754-sophia-bano)
         image:
           type: ImageBlock
           url: /images/sb.png
