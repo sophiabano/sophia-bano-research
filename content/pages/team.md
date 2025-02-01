@@ -13,49 +13,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - type: ImageGallerySection
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Vise logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/banner.png
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Sanity logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Rangle logo
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -105,6 +62,49 @@ sections:
       type: TitleBlock
       text: Principal Investigator
       color: text-dark
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        altText: Empathy logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Wellster logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Telus logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/banner.png
+        altText: Contentful logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Sanity logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Rangle logo
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: ''
       color: text-dark
