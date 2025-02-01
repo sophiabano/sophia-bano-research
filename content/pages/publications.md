@@ -66,7 +66,7 @@ sections:
       - type: FeaturedItem
         title: '2022'
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         actions: []
