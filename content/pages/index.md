@@ -326,7 +326,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Email
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
