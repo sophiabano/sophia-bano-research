@@ -21,7 +21,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/sb.png
-          altText: Business consulting
+          altText: Sophia Bano
           elementId: ''
           styles:
             self:
