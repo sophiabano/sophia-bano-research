@@ -58,10 +58,9 @@ sections:
       - type: FeaturedItem
         title: AID-PitSurg
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Develop clinical decision support for Transsphenoidal surgery. Funded
+          by [EPSRC](https://gtr.ukri.org/projects?ref=EP%2FY01958X%2F1). 
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
