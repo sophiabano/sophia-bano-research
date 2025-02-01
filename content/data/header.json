@@ -24,7 +24,7 @@
         {
             "label": "Team",
             "altText": "Team",
-            "url": "/careers",
+            "url": "/team",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
