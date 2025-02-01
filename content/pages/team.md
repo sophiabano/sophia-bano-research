@@ -2,17 +2,6 @@
 title: Team
 slug: team
 sections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -62,6 +51,17 @@ sections:
       type: TitleBlock
       text: Principal Investigator
       color: text-dark
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: ImageGallerySection
     subtitle: ''
     images:
