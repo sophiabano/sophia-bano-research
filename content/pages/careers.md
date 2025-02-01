@@ -31,7 +31,7 @@ sections:
       url: /images/abstract-background.svg
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/banner.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
