@@ -110,7 +110,7 @@ sections:
             flexDirection: row
     actions: []
     variant: small-list
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
