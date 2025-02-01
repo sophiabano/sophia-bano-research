@@ -1,10 +1,12 @@
 {
     "type": "Person",
-    "name": "Anjana Wijekoon",
-    "role": "Senior Research Fellow",
+    "name": "Danyal Khan",
+    "role": "Job title",
+    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n",
     "image": {
-        "url": "/images/anjana.jpg",
-        "altText": "Anjana Wijekoon",
+        "type": "ImageBlock",
+        "url": "/images/avatar1.svg",
+        "altText": "Rhonda Piper",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -12,11 +14,9 @@
                     "mb-8"
                 ]
             }
-        },
-        "type": "ImageBlock"
+        }
     },
     "colors": "bg-light-fg-dark",
-    "elementId": null,
     "styles": {
         "self": {
             "padding": [
@@ -32,6 +32,5 @@
             "borderRadius": "none",
             "justifyContent": "center"
         }
-    },
-    "bio": "Pellentesque placerat, leo eget pretium lacinia, arcu tellus dictum tortor, at finibus justo nisi nec quam. Quisque vehicula, mauris sit amet laoreet lacinia, felis diam fringilla augue, non egestas leo lacus id ante. Nullam pharetra molestie tellus id congue. Proin ullamcorper hendrerit placerat. Quisque in rhoncus ex, nec sodales enim.\n"
+    }
 }
