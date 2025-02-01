@@ -51,6 +51,7 @@ sections:
       styles:
         self:
           textAlign: left
+          fontWeight: 400
       type: TitleBlock
     people:
       - content/data/person1.json
