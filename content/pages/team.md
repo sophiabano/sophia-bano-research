@@ -26,7 +26,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Link
-            label: UCL Profile
+            label: Read More
             altText: ''
             url: 'https://profiles.ucl.ac.uk/66754-sophia-bano'
             showIcon: true
