@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Join Us
         altText: ''
-        url: /
+        url: /team
         showIcon: true
         icon: arrowRight
         iconPosition: right
