@@ -1,6 +1,6 @@
 ---
 title: Team
-slug: careers
+slug: team
 sections:
   - type: ImageGallerySection
     subtitle: ''
