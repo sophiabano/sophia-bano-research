@@ -2,7 +2,9 @@
 title: Peter Kirstein Lecture 2024 with Professor Hugh Herr (MIT)
 slug: top-ten-lessons-we-learned
 date: '2024-06-03'
-excerpt: ''
+excerpt: >-
+  nterdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
+  commodo odio aenean sed adipiscing diam donec. 
 featuredImage:
   url: /images/hugh.png
   altText: Thumbnail
