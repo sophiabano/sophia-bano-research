@@ -229,7 +229,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: ''
         tagline: '2024'
         subtitle: Peter Kirstein Lecture
         text: |
