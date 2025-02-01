@@ -77,7 +77,7 @@ sections:
           - pr-16
         justifyContent: center
       subtitle:
-        textAlign: left
+        textAlign: center
     type: FeaturedPeopleSection
     subtitle: Principal Investigator
   - type: FeaturedPeopleSection
