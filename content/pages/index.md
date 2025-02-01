@@ -47,7 +47,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: ''
+      text: Research Projects
       color: text-dark
       styles:
         self:
