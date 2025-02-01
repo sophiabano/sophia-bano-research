@@ -1,6 +1,6 @@
 ---
-title: Pricing
-slug: pricing
+title: Research
+slug: research
 sections:
   - title:
       text: Research Projects
