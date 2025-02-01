@@ -1,0 +1,28 @@
+{
+    "model": "Link",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "link",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "person"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Join Us",
+                "altText": "",
+                "url": "/",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            },
+            "thumbnail": "images/link-link-0d2a.png"
+        }
+    ]
+}
