@@ -276,7 +276,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Charles Bell House
+        title: ''
         tagline: ''
         subtitle: This is the item subtitle
         text: |
