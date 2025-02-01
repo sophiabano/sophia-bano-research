@@ -72,7 +72,7 @@ sections:
     showAuthor: true
     actions:
       - type: Button
-        label: Get started
+        label: Learn More
         altText: ''
         url: /research
         showIcon: false
