@@ -135,7 +135,7 @@ sections:
     actions:
       - label: Learn More
         altText: learn more
-        url: /
+        url: /research
         showIcon: false
         icon: arrowRight
         iconPosition: right
