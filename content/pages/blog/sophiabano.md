@@ -30,7 +30,7 @@ bottomSections:
           - pb-3
           - pr-3
 slug: sophiabano
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
   type: Seo
