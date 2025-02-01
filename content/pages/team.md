@@ -61,7 +61,7 @@ sections:
       - type: FeaturedItem
         title: Sophia Bano
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: Assistant Professor
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
