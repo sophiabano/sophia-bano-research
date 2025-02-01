@@ -283,7 +283,7 @@ sections:
           43-45 FOLEY STREET, LONDON, W1W 7TS
         image:
           type: ImageBlock
-          url: /images/sb.png
+          url: /images/avatar1.svg
           altText: Placeholder image
           styles:
             self:
