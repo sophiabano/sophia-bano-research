@@ -15,7 +15,7 @@
     "primaryLinks": [
         {
             "label": "Research",
-            "url": "/pricing",
+            "url": "/research",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
