@@ -33,8 +33,13 @@ sections:
         title: '2024'
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          1.  PitVis-2023 Challenge: Workflow Recognition in videos of
+          Endoscopic Pituitary Surgery
+          \[[GitHub](https://github.com/dreets/pitvis)]
+          \[[Paper](https://arxiv.org/pdf/2409.01184)]
+          \[[Media](https://www.synapse.org/Synapse:syn51232283/wiki/621581)]
+
         actions: []
         colors: bg-light-fg-dark
         styles:
