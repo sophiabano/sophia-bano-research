@@ -106,7 +106,7 @@ sections:
       text: Principal Investigator
       color: text-dark
   - title:
-      text: ''
+      text: Post-Doc
       color: text-dark
       styles:
         self:
