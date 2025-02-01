@@ -48,7 +48,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Feature Item Three
-        tagline: '2023'
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
