@@ -136,6 +136,30 @@ sections:
           - pl-3
           - pb-3
           - pr-3
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/khan.json
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    subtitle: Clinical Collaborators
   - type: ImageGallerySection
     subtitle: ''
     images:
@@ -179,30 +203,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    people:
-      - content/data/khan.json
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    subtitle: Clinical Collaborators
   - type: DividerSection
     title: Divider
     elementId: ''
