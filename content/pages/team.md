@@ -159,7 +159,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Visiting Researchers
+      text: ''
       color: text-dark
       styles:
         self:
