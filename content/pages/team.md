@@ -84,6 +84,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
+    subtitle: Principal Investigator
   - title:
       text: Open positions
       color: text-dark
