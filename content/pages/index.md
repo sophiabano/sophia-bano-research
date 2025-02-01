@@ -234,7 +234,7 @@ sections:
     text: "nteger tempus augue ut ligula eleifend pretium. Vestibulum a tellus imperdiet, pulvinar libero a, dignissim nulla. Suspendisse ac lectus sollicitudin, ullamcorper eros nec, pharetra tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent urna nisi, molestie non urna id, tempor pharetra diam. Nulla facilisi.\_\n"
     actions: []
     media:
-      title: Title of the video
+      title: BBC Breakfast
       url: 'https://www.youtube.com/watch?v=-sJRmVc1BQU'
       autoplay: true
       loop: true
