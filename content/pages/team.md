@@ -130,7 +130,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
-    subtitle: Research Fellows
+    subtitle: ''
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
