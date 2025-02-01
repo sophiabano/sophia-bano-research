@@ -34,7 +34,7 @@
         {
             "type": "Link",
             "label": "Publications",
-            "altText": "",
+            "altText": "Publications",
             "url": "/publications",
             "showIcon": false,
             "icon": "arrowRight",
