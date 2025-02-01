@@ -276,7 +276,16 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions: []
+    actions:
+      - type: Link
+        label: Read More
+        altText: ''
+        url: /events
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
