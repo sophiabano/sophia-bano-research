@@ -86,7 +86,7 @@ sections:
           self:
             padding:
               - pt-4
-              - pb-0
+              - pb-4
               - pl-9
               - pr-9
             textAlign: left
