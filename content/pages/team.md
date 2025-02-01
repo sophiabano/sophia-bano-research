@@ -130,7 +130,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
-    subtitle: ''
+    subtitle: Post-Doc
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
