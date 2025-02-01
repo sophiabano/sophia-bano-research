@@ -41,7 +41,7 @@ sections:
           \[[Media](https://www.synapse.org/Synapse:syn51232283/wiki/621581)]
 
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
