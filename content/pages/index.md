@@ -328,7 +328,7 @@ sections:
         tagline: ''
         subtitle: UCL at Here East
         text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+          8-9 East Bay Lane, Queen Elizabeth Olympic Park, London, E15 2GW
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
