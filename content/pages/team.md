@@ -185,8 +185,7 @@ sections:
       styles:
         self:
           textAlign: center
-    people:
-      - content/data/person6.json
+    people: []
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
