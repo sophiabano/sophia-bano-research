@@ -23,7 +23,7 @@
         },
         {
             "label": "Team",
-            "altText": "Careers page",
+            "altText": "Team",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
