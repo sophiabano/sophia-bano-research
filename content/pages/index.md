@@ -16,15 +16,6 @@ sections:
       real-world clinical applications** and **interdisciplinary
       collaborations.**
     actions:
-      - label: Open Positions
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
