@@ -211,11 +211,11 @@ sections:
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
-        url: /images/banner.png
-        altText: Contentful logo
+        altText: Sanity logo
         elementId: ''
       - type: ImageBlock
-        altText: Sanity logo
+        url: /images/banner.png
+        altText: Contentful logo
         elementId: ''
       - type: ImageBlock
         altText: Rangle logo
