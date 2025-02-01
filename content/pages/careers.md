@@ -38,7 +38,7 @@ sections:
         self:
           borderRadius: medium
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
