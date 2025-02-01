@@ -16,7 +16,7 @@ sections:
       real-world clinical applications** and **interdisciplinary
       collaborations.**
     actions:
-      - label: Get started
+      - label: Open Positions
         altText: ''
         url: /
         showIcon: false
