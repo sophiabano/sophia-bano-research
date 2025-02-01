@@ -61,7 +61,7 @@ sections:
       - type: FeaturedItem
         title: Sophia Bano
         tagline: Feature 2
-        subtitle: Assistant Professor
+        subtitle: "Assistant Professor\_in Robotics and Artificial Intelligence in the Department of Computer Science"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
