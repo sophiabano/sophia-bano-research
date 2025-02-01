@@ -81,7 +81,7 @@ sections:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -100,7 +100,11 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    subtitle: Principal Investigator
+    subtitle: ''
+    title:
+      type: TitleBlock
+      text: Principal Investigator
+      color: text-dark
   - title:
       text: ''
       color: text-dark
@@ -126,7 +130,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
-    subtitle: Research Fellows
+    subtitle: Post-Doc
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
