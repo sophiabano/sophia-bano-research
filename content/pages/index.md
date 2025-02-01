@@ -278,7 +278,7 @@ sections:
             flexDirection: row
     actions:
       - type: Link
-        label: Join Us
+        label: Read More
         altText: ''
         url: /events
         showIcon: true
