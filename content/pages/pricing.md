@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Research
 slug: pricing
 sections:
   - title:
