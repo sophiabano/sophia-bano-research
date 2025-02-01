@@ -70,7 +70,16 @@ sections:
     showExcerpt: true
     showDate: true
     showAuthor: true
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /research
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: ''
     variant: two-col-grid
     colors: bg-neutral-fg-dark
