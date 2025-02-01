@@ -45,7 +45,6 @@ sections:
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
-        url: /images/wellster-logo.svg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
