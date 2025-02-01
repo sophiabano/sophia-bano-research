@@ -230,7 +230,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Feature
+    subtitle: AI-assisted Neurosurgery BBC Breakfast News
     text: ''
     actions: []
     media:
