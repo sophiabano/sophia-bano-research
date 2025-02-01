@@ -203,6 +203,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: Events
   - title: Divider
     colors: bg-light-fg-dark
     styles:
