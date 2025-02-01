@@ -43,7 +43,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "GitHub",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
