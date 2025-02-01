@@ -55,8 +55,12 @@ sections:
         title: '2023'
         tagline: ''
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >+
+          1.  A multi-task network for anatomy identification in endoscopic
+          pituitary surgery
+          \[[GitHub](https://github.com/dreets/pitnet-anat-public)]
+          \[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_45)] 
+
         actions: []
         colors: bg-light-fg-dark
         styles:
