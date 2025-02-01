@@ -30,7 +30,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: '2024'
         tagline: ''
         subtitle: This is the item subtitle
         text: |
