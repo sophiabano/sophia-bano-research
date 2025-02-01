@@ -36,14 +36,6 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Locations",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
                     "label": "GitHub",
                     "url": "/",
                     "icon": "arrowRight",
