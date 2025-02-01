@@ -62,7 +62,7 @@ sections:
           \[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_45)] 
 
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
