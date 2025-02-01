@@ -155,6 +155,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: PhD Students
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
