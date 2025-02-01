@@ -62,6 +62,17 @@ sections:
           - pl-3
           - pb-3
           - pr-3
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: ImageGallerySection
     subtitle: ''
     images:
@@ -105,17 +116,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - title:
       text: ''
       color: text-dark
