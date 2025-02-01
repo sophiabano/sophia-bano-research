@@ -184,6 +184,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Visiting Researchers
   - title:
       text: Open positions
       color: text-dark
