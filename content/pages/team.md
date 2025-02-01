@@ -110,9 +110,9 @@ sections:
           fontWeight: 400
       type: TitleBlock
     people:
-      - content/data/person2.json
       - content/data/person3.json
       - content/data/person4.json
+      - content/data/person2.json
     variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
