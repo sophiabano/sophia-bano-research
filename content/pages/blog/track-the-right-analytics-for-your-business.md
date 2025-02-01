@@ -8,7 +8,6 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/241113_J-TYE_UCL_301_Charles-Bell-House_1064-2.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
