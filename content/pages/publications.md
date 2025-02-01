@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: '2025'
-        tagline: '2025'
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
