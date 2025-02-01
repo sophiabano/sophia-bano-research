@@ -72,7 +72,7 @@ sections:
     showAuthor: true
     actions: []
     elementId: ''
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-neutral-fg-dark
     hoverEffect: thin-underline
     styles:
