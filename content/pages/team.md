@@ -124,7 +124,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
-    subtitle: Principal Investigator
+    subtitle: Research Fellows
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
