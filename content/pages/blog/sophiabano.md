@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Sophia Bano
-date: '2022-10-10'
+date: '2022-10-01'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
