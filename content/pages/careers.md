@@ -47,7 +47,7 @@ sections:
         textAlign: center
   - title:
       text: Meet the team
-      color: text-neutral
+      color: text-light
       styles:
         self:
           textAlign: center
