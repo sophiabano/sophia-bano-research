@@ -103,7 +103,7 @@ sections:
     subtitle: ''
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Principal Investigator
       color: text-dark
   - title:
       text: ''
