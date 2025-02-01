@@ -73,6 +73,32 @@ sections:
           - pl-3
           - pb-3
           - pr-3
+  - title:
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+          fontWeight: 400
+      type: TitleBlock
+    people:
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person2.json
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedPeopleSection
+    subtitle: Post-Doc
   - type: ImageGallerySection
     subtitle: ''
     images:
@@ -116,32 +142,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-          fontWeight: 400
-      type: TitleBlock
-    people:
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person2.json
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedPeopleSection
-    subtitle: Post-Doc
   - type: DividerSection
     title: Divider
     elementId: ''
