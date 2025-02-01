@@ -186,7 +186,6 @@ sections:
         self:
           textAlign: center
     people:
-      - content/data/person4.json
       - content/data/person5.json
       - content/data/person6.json
     actions: []
