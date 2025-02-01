@@ -32,7 +32,7 @@ sections:
       - type: FeaturedItem
         title: '2024'
         tagline: ''
-        subtitle: ''
+        subtitle: Clinical
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         actions: []
