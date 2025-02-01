@@ -16,7 +16,7 @@ sections:
       real-world clinical applications** and **interdisciplinary
       collaborations.**
     actions:
-      - label: See Tutorials
+      - label: Join Us
         altText: ''
         url: /
         showIcon: true
