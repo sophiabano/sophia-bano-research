@@ -30,13 +30,6 @@
             "style": "secondary",
             "type": "Link",
             "showIcon": false
-        },
-        {
-            "label": "Contact",
-            "altText": "Dropdown",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         }
     ],
     "secondaryLinks": [],
