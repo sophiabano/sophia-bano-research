@@ -7,7 +7,7 @@ sections:
       text: Sophia Bano
       color: text-dark
       type: TitleBlock
-    subtitle: Research Lab
+    subtitle: ''
     text: >
       We are a sub-group within the Surgical Robot Vision (SRV) group at **The
       UCL Hawkes Institute**, focusing on cutting-edge research in **surgical
