@@ -184,6 +184,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Clinical Collaborators
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
