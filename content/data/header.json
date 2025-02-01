@@ -33,7 +33,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Publications",
             "altText": "",
             "url": "/publications",
             "showIcon": false,
