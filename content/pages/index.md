@@ -231,7 +231,7 @@ sections:
       - type: FeaturedItem
         title: Feature Item Two
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Peter Kirstein Lecture
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
