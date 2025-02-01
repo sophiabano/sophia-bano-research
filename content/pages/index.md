@@ -326,7 +326,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: UCL at
+        subtitle: UCL at Here East
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
