@@ -148,8 +148,9 @@ sections:
         title: ''
         tagline: '2024'
         subtitle: MedICSS Summer School
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          Thumbnail description
+
         image:
           type: ImageBlock
           url: /images/DSC02810.jpg
