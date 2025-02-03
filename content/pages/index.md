@@ -174,7 +174,7 @@ sections:
         tagline: '2024'
         subtitle: Peter Kirstein Lecture
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Thumbnail description
         image:
           type: ImageBlock
           url: /images/hurgh.png
