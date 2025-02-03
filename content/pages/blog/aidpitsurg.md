@@ -11,7 +11,7 @@ featuredImage:
     self:
       borderRadius: medium
 bottomSections: []
-isFeatured: true
+isFeatured: false
 isDraft: false
 seo:
   metaTitle: 5 Tips for Starting a Startup
