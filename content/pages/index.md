@@ -219,7 +219,7 @@ sections:
       - type: Link
         label: Read More
         altText: ''
-        url: /events
+        url: /blog
         showIcon: true
         icon: arrowRight
         iconPosition: right
