@@ -25,6 +25,8 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
+    padding:
+      - pt-3
 type: PostLayout
 author: content/data/sb.json
 ---
