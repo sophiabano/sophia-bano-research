@@ -13,7 +13,6 @@ topSections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/peterkirstein2024.md
     showThumbnail: true
     showExcerpt: true
