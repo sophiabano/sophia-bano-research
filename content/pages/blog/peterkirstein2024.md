@@ -2,9 +2,7 @@
 title: Peter Kirstein Lecture 2024 with Professor Hugh Herr (MIT)
 slug: /peterkirstein2024
 date: '2024-06-03'
-excerpt: >-
-  nterdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
-  commodo odio aenean sed adipiscing diam donec. 
+excerpt: Thumbnail description
 featuredImage:
   url: /images/hugh.png
   altText: Thumbnail
