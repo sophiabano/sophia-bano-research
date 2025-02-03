@@ -1,6 +1,6 @@
 ---
 title: AID-PitSurg
-slug: /blog/aidpitsurg
+slug: /aidpitsurg
 date: '2023-03-18'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
