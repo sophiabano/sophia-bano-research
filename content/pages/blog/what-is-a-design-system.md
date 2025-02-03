@@ -5,7 +5,7 @@ slug: what-is-a-design-system
 date: '2024-07-14'
 excerpt: Thumbnail Description
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/DSC02480.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
