@@ -5,7 +5,7 @@ date: '2025-02-01'
 excerpt: Description
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/sb.png
   altText: Thumbnail
   elementId: ''
   styles:
