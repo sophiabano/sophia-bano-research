@@ -2,7 +2,7 @@
 type: PostLayout
 title: Sophia Bano
 date: '2025-02-01'
-excerpt: Description
+excerpt: thumbnail Description
 featuredImage:
   type: ImageBlock
   url: /images/sb.png
