@@ -64,8 +64,7 @@ sections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/five-tips-for-starting-a-startup.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
