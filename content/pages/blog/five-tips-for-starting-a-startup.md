@@ -27,6 +27,7 @@ styles:
     flexDirection: col
     padding:
       - pt-3
+      - pb-3
 type: PostLayout
 author: content/data/sb.json
 ---
