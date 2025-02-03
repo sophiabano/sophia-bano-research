@@ -65,7 +65,7 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/five-tips-for-starting-a-startup.md
+      - content/pages/blog/aidpitsurg.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -123,16 +123,17 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - title: Divider
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -147,8 +148,9 @@ sections:
         title: ''
         tagline: '2024'
         subtitle: MedICSS Summer School
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          Thumbnail description
+
         image:
           type: ImageBlock
           url: /images/DSC02810.jpg
@@ -172,34 +174,10 @@ sections:
         tagline: '2024'
         subtitle: Peter Kirstein Lecture
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Thumbnail description
         image:
           type: ImageBlock
           url: /images/hurgh.png
-          altText: Background alt text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
-        title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
           altText: Background alt text
           styles:
             self:
@@ -219,7 +197,7 @@ sections:
       - type: Link
         label: Read More
         altText: ''
-        url: /events
+        url: /blog
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -237,6 +215,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: GenericSection
     title:
       text: In the media
@@ -276,6 +265,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -371,16 +371,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title: Divider
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
