@@ -5,7 +5,7 @@ date: '2024-06-03'
 excerpt: Thumbnail description
 featuredImage:
   url: /images/hugh.png
-  altText: Thumbnail
+  altText: kirstein2024
   type: ImageBlock
   styles:
     self:
