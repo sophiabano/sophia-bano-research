@@ -5,7 +5,7 @@ date: '2023-03-18'
 excerpt: Thumbnail description
 featuredImage:
   url: /images/241113_J-TYE_UCL_301_Charles-Bell-House_1064-2.jpg
-  altText: Thumbnail
+  altText: aid-pitsurg
   type: ImageBlock
   styles:
     self:
