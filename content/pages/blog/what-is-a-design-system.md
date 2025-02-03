@@ -2,7 +2,7 @@
 type: PostLayout
 title: MedICSS Summer School
 slug: what-is-a-design-system
-date: '0202-07-14'
+date: '2024-07-14'
 excerpt: >-
   A Design System is a comprehensive set of standards, principles, and tools
   that guide the design and development of a product or service. It provides a
