@@ -28,7 +28,7 @@ sections:
           - type: Link
             label: Read More
             altText: ''
-            url: /sophiabano
+            url: /blog/sophiabano
             showIcon: true
             icon: arrowRight
             iconPosition: right
