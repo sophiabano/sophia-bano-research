@@ -17,7 +17,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          1.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
