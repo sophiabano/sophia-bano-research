@@ -7,7 +7,7 @@ topSections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Events
       color: text-dark
       styles:
         self:
