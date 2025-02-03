@@ -6,7 +6,7 @@ excerpt: Description
 featuredImage:
   type: ImageBlock
   url: /images/sb.png
-  altText: Thumbnail
+  altText: Sophia Bano
   elementId: ''
   styles:
     self:
