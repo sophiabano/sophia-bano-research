@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: MedICSS Summer School
-slug: what-is-a-design-system
+slug: medicss2024
 date: '2024-07-14'
 excerpt: Thumbnail Description
 featuredImage:
