@@ -6,7 +6,7 @@ date: '2024-07-14'
 excerpt: Thumbnail Description
 featuredImage:
   url: /images/DSC02480.jpg
-  altText: Thumbnail
+  altText: medicss
   type: ImageBlock
   styles:
     self:
