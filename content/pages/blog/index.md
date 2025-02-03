@@ -4,29 +4,33 @@ slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
-  - title:
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
       text: Events
       color: text-dark
-      type: TitleBlock
-    subtitle: ''
+      styles:
+        self:
+          textAlign: center
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/peterkirstein2024.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
+    actions: []
+    elementId: ''
     variant: big-list
     colors: bg-light-fg-dark
+    hoverEffect: thin-underline
     styles:
       self:
         padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
 styles:
   title:
     textAlign: center
