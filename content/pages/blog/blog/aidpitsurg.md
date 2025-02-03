@@ -1,6 +1,6 @@
 ---
 title: AID-PitSurg
-slug: five-tips-for-starting-a-startup
+slug: /blog/aidpitsurg
 date: '2023-03-18'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
