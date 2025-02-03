@@ -2,9 +2,7 @@
 type: PostLayout
 title: Sophia Bano
 date: '2025-02-01'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Description
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
